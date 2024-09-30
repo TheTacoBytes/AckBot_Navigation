@@ -36,8 +36,8 @@ This repository focuses on setting up and running the SLAM and navigation tasks 
 To set up the Ackbot navigation stack, first create a new ROS 2 workspace on the **laptop** if you haven't already:
 
 ```bash
-mkdir -p ~/ackbot_ws/src
-cd ~/ackbot_ws/src
+mkdir ~/ackbot_ws/
+cd ~/ackbot_ws/
 git clone https://github.com/TheTacoBytes/AckBot_Navigation.git .
 ```
 

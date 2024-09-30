@@ -105,7 +105,7 @@ To localize Ackbot in the environment using the saved map, run the following com
 ```bash
 ros2 launch ackbot_nav2_bringup localization_launch.py use_sim_time:=false
 ```
-Now based on where the AckBot is in the realworld set a 2D Pose Estimate in RVIZ in the map. If you dont see the map in RVIZ look at all the **map** drop downs and find the one that has the topic `/map` change it to anything else and change it back. Then, go into the **topic** drop down and set the **Durability Policy** to `Transient Local`.
+Now, based on AckBot's actual position in the real world, set a **2D Pose Estimate** in RVIZ on the map. If the **map** doesn't appear in RVIZ, check the map dropdown in the Displays panel. Locate the topic set to `/map`, change it to any other value, and then switch it back to `/map`. Next, go to the Topic dropdown and set the **Durability Policy** to `Transient Local`.
 
 ### Path Planning and Navigation
 Once Ackbot is localized, you can run Nav2 for path planning and navigation on the **laptop**:

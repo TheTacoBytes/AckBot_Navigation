@@ -1,0 +1,15 @@
+planner_server:
+  ros__parameters:
+    expected_planner_frequency: 20.0
+    planner_plugins: ["SmacPlanner"]
+    SmacPlanner:
+      plugin: "nav2_smac_planner/SmacPlannerHybrid"
+
+
+# planner_server:
+#   ros__parameters:
+#     expected_planner_frequency: 20.0
+#     planner_plugins: ['GridBased']
+#     GridBased:
+#       plugin: 'nav2_navfn_planner::NavfnPlanner'
+

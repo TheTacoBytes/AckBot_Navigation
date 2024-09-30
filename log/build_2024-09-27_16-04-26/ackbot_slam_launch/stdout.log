@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info
+writing ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/PKG-INFO
+writing dependency_links to ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/dependency_links.txt
+writing entry points to ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/entry_points.txt
+writing requirements to ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/requires.txt
+writing top-level names to ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/top_level.txt
+writing manifest file '../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/SOURCES.txt'
+reading manifest file '../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/SOURCES.txt'
+writing manifest file '../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/beto/ackbot_ws/build/ackbot_slam_launch/build
+creating /home/beto/ackbot_ws/build/ackbot_slam_launch/build/lib
+creating /home/beto/ackbot_ws/build/ackbot_slam_launch/build/lib/ackbot_slam_launch
+copying ackbot_slam_launch/__init__.py -> /home/beto/ackbot_ws/build/ackbot_slam_launch/build/lib/ackbot_slam_launch
+running install
+running install_lib
+creating /home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages/ackbot_slam_launch
+copying /home/beto/ackbot_ws/build/ackbot_slam_launch/build/lib/ackbot_slam_launch/__init__.py -> /home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages/ackbot_slam_launch
+byte-compiling /home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages/ackbot_slam_launch/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ament_index
+creating /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ament_index/resource_index
+creating /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ament_index/resource_index/packages
+copying resource/ackbot_slam_launch -> /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ament_index/resource_index/packages
+copying package.xml -> /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ackbot_slam_launch
+creating /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ackbot_slam_launch/launch
+copying launch/slam_launch.py -> /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ackbot_slam_launch/launch
+running install_egg_info
+Copying ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info to /home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages/ackbot_slam_launch-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/beto/ackbot_ws/build/ackbot_slam_launch/install.log'

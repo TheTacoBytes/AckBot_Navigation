@@ -1,0 +1,37 @@
+[0.834s] Invoking command in '/home/beto/ackbot_ws/src/webcam_feed': PYTHONPATH=/home/beto/ackbot_ws/build/webcam_feed/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/webcam_feed build --build-base /home/beto/ackbot_ws/build/webcam_feed/build install --record /home/beto/ackbot_ws/build/webcam_feed/install.log --single-version-externally-managed install_data
+[0.986s] running egg_info
+[0.986s] creating ../../build/webcam_feed/webcam_feed.egg-info
+[0.986s] writing ../../build/webcam_feed/webcam_feed.egg-info/PKG-INFO
+[0.986s] writing dependency_links to ../../build/webcam_feed/webcam_feed.egg-info/dependency_links.txt
+[0.986s] writing entry points to ../../build/webcam_feed/webcam_feed.egg-info/entry_points.txt
+[0.986s] writing requirements to ../../build/webcam_feed/webcam_feed.egg-info/requires.txt
+[0.986s] writing top-level names to ../../build/webcam_feed/webcam_feed.egg-info/top_level.txt
+[0.986s] writing manifest file '../../build/webcam_feed/webcam_feed.egg-info/SOURCES.txt'
+[0.987s] reading manifest file '../../build/webcam_feed/webcam_feed.egg-info/SOURCES.txt'
+[0.987s] writing manifest file '../../build/webcam_feed/webcam_feed.egg-info/SOURCES.txt'
+[0.987s] running build
+[0.987s] running build_py
+[0.987s] creating /home/beto/ackbot_ws/build/webcam_feed/build
+[0.987s] creating /home/beto/ackbot_ws/build/webcam_feed/build/lib
+[0.987s] creating /home/beto/ackbot_ws/build/webcam_feed/build/lib/webcam_feed
+[0.987s] copying webcam_feed/__init__.py -> /home/beto/ackbot_ws/build/webcam_feed/build/lib/webcam_feed
+[0.987s] copying webcam_feed/webcam_sub.py -> /home/beto/ackbot_ws/build/webcam_feed/build/lib/webcam_feed
+[0.994s] running install
+[0.994s] running install_lib
+[0.995s] creating /home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages/webcam_feed
+[0.995s] copying /home/beto/ackbot_ws/build/webcam_feed/build/lib/webcam_feed/__init__.py -> /home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages/webcam_feed
+[0.995s] copying /home/beto/ackbot_ws/build/webcam_feed/build/lib/webcam_feed/webcam_sub.py -> /home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages/webcam_feed
+[0.995s] byte-compiling /home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages/webcam_feed/__init__.py to __init__.cpython-310.pyc
+[0.995s] byte-compiling /home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages/webcam_feed/webcam_sub.py to webcam_sub.cpython-310.pyc
+[0.996s] running install_data
+[0.996s] creating /home/beto/ackbot_ws/install/webcam_feed/share/ament_index
+[0.996s] creating /home/beto/ackbot_ws/install/webcam_feed/share/ament_index/resource_index
+[0.996s] creating /home/beto/ackbot_ws/install/webcam_feed/share/ament_index/resource_index/packages
+[0.996s] copying resource/webcam_feed -> /home/beto/ackbot_ws/install/webcam_feed/share/ament_index/resource_index/packages
+[0.996s] copying package.xml -> /home/beto/ackbot_ws/install/webcam_feed/share/webcam_feed
+[0.996s] running install_egg_info
+[0.997s] Copying ../../build/webcam_feed/webcam_feed.egg-info to /home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages/webcam_feed-0.0.0-py3.10.egg-info
+[0.997s] running install_scripts
+[1.012s] Installing img_subscriber script to /home/beto/ackbot_ws/install/webcam_feed/lib/webcam_feed
+[1.012s] writing list of installed files to '/home/beto/ackbot_ws/build/webcam_feed/install.log'
+[1.051s] Invoked command in '/home/beto/ackbot_ws/src/webcam_feed' returned '0': PYTHONPATH=/home/beto/ackbot_ws/build/webcam_feed/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/webcam_feed build --build-base /home/beto/ackbot_ws/build/webcam_feed/build install --record /home/beto/ackbot_ws/build/webcam_feed/install.log --single-version-externally-managed install_data

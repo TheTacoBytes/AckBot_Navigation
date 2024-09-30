@@ -1,0 +1,20 @@
+[0.862s] Invoking command in '/home/beto/ackbot_ws/src/ackbot_slam_launch': PYTHONPATH=/home/beto/ackbot_ws/build/ackbot_slam_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ackbot_slam_launch build --build-base /home/beto/ackbot_ws/build/ackbot_slam_launch/build install --record /home/beto/ackbot_ws/build/ackbot_slam_launch/install.log --single-version-externally-managed install_data
+[1.014s] running egg_info
+[1.015s] writing ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/PKG-INFO
+[1.015s] writing dependency_links to ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/dependency_links.txt
+[1.015s] writing entry points to ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/entry_points.txt
+[1.015s] writing requirements to ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/requires.txt
+[1.016s] writing top-level names to ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/top_level.txt
+[1.018s] reading manifest file '../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/SOURCES.txt'
+[1.018s] writing manifest file '../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/SOURCES.txt'
+[1.018s] running build
+[1.018s] running build_py
+[1.019s] running install
+[1.019s] running install_lib
+[1.019s] running install_data
+[1.019s] running install_egg_info
+[1.020s] removing '/home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages/ackbot_slam_launch-0.0.0-py3.10.egg-info' (and everything under it)
+[1.020s] Copying ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info to /home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages/ackbot_slam_launch-0.0.0-py3.10.egg-info
+[1.020s] running install_scripts
+[1.039s] writing list of installed files to '/home/beto/ackbot_ws/build/ackbot_slam_launch/install.log'
+[1.062s] Invoked command in '/home/beto/ackbot_ws/src/ackbot_slam_launch' returned '0': PYTHONPATH=/home/beto/ackbot_ws/build/ackbot_slam_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ackbot_slam_launch build --build-base /home/beto/ackbot_ws/build/ackbot_slam_launch/build install --record /home/beto/ackbot_ws/build/ackbot_slam_launch/install.log --single-version-externally-managed install_data

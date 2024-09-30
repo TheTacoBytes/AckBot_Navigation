@@ -1,0 +1,43 @@
+[0.853s] Invoking command in '/home/beto/ackbot_ws/src/ackbot_nav2_bringup': PYTHONPATH=/home/beto/ackbot_ws/build/ackbot_nav2_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beto/ackbot_ws/install/ackbot_nav2_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ackbot_nav2_bringup build --build-base /home/beto/ackbot_ws/build/ackbot_nav2_bringup/build install --record /home/beto/ackbot_ws/build/ackbot_nav2_bringup/install.log --single-version-externally-managed install_data
+[0.995s] running egg_info
+[0.996s] creating ../../build/ackbot_nav2_bringup/ackbot_nav2_bringup.egg-info
+[0.996s] writing ../../build/ackbot_nav2_bringup/ackbot_nav2_bringup.egg-info/PKG-INFO
+[0.996s] writing dependency_links to ../../build/ackbot_nav2_bringup/ackbot_nav2_bringup.egg-info/dependency_links.txt
+[0.996s] writing entry points to ../../build/ackbot_nav2_bringup/ackbot_nav2_bringup.egg-info/entry_points.txt
+[0.996s] writing requirements to ../../build/ackbot_nav2_bringup/ackbot_nav2_bringup.egg-info/requires.txt
+[0.996s] writing top-level names to ../../build/ackbot_nav2_bringup/ackbot_nav2_bringup.egg-info/top_level.txt
+[0.996s] writing manifest file '../../build/ackbot_nav2_bringup/ackbot_nav2_bringup.egg-info/SOURCES.txt'
+[0.996s] reading manifest file '../../build/ackbot_nav2_bringup/ackbot_nav2_bringup.egg-info/SOURCES.txt'
+[0.996s] writing manifest file '../../build/ackbot_nav2_bringup/ackbot_nav2_bringup.egg-info/SOURCES.txt'
+[0.996s] running build
+[0.996s] running build_py
+[0.996s] creating /home/beto/ackbot_ws/build/ackbot_nav2_bringup/build
+[0.996s] creating /home/beto/ackbot_ws/build/ackbot_nav2_bringup/build/lib
+[0.997s] creating /home/beto/ackbot_ws/build/ackbot_nav2_bringup/build/lib/ackbot_nav2_bringup
+[0.997s] copying ackbot_nav2_bringup/__init__.py -> /home/beto/ackbot_ws/build/ackbot_nav2_bringup/build/lib/ackbot_nav2_bringup
+[0.997s] running install
+[0.997s] running install_lib
+[0.997s] creating /home/beto/ackbot_ws/install/ackbot_nav2_bringup/lib/python3.10/site-packages/ackbot_nav2_bringup
+[0.997s] copying /home/beto/ackbot_ws/build/ackbot_nav2_bringup/build/lib/ackbot_nav2_bringup/__init__.py -> /home/beto/ackbot_ws/install/ackbot_nav2_bringup/lib/python3.10/site-packages/ackbot_nav2_bringup
+[0.998s] byte-compiling /home/beto/ackbot_ws/install/ackbot_nav2_bringup/lib/python3.10/site-packages/ackbot_nav2_bringup/__init__.py to __init__.cpython-310.pyc
+[0.998s] running install_data
+[0.998s] creating /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ament_index
+[0.998s] creating /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ament_index/resource_index
+[0.998s] creating /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ament_index/resource_index/packages
+[0.998s] copying resource/ackbot_nav2_bringup -> /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ament_index/resource_index/packages
+[0.998s] copying package.xml -> /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ackbot_nav2_bringup
+[0.998s] creating /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ackbot_nav2_bringup/launch
+[0.998s] copying launch/localization_launch.py -> /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ackbot_nav2_bringup/launch
+[1.001s] copying launch/online_async_launch.py -> /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ackbot_nav2_bringup/launch
+[1.001s] copying launch/navigation_launch.py -> /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ackbot_nav2_bringup/launch
+[1.001s] creating /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ackbot_nav2_bringup/config
+[1.002s] copying config/nav2_params.yaml -> /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ackbot_nav2_bringup/config
+[1.002s] copying config/nav2_params (copy).yaml -> /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ackbot_nav2_bringup/config
+[1.003s] creating /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ackbot_nav2_bringup/maps
+[1.003s] copying maps/map.yaml -> /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ackbot_nav2_bringup/maps
+[1.003s] copying maps/map.pgm -> /home/beto/ackbot_ws/install/ackbot_nav2_bringup/share/ackbot_nav2_bringup/maps
+[1.003s] running install_egg_info
+[1.005s] Copying ../../build/ackbot_nav2_bringup/ackbot_nav2_bringup.egg-info to /home/beto/ackbot_ws/install/ackbot_nav2_bringup/lib/python3.10/site-packages/ackbot_nav2_bringup-0.0.0-py3.10.egg-info
+[1.005s] running install_scripts
+[1.019s] writing list of installed files to '/home/beto/ackbot_ws/build/ackbot_nav2_bringup/install.log'
+[1.053s] Invoked command in '/home/beto/ackbot_ws/src/ackbot_nav2_bringup' returned '0': PYTHONPATH=/home/beto/ackbot_ws/build/ackbot_nav2_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beto/ackbot_ws/install/ackbot_nav2_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ackbot_nav2_bringup build --build-base /home/beto/ackbot_ws/build/ackbot_nav2_bringup/build install --record /home/beto/ackbot_ws/build/ackbot_nav2_bringup/install.log --single-version-externally-managed install_data

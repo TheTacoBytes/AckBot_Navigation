@@ -1,0 +1,37 @@
+[0.840s] Invoking command in '/home/beto/ackbot_ws/src/ps4_controller': PYTHONPATH=/home/beto/ackbot_ws/build/ps4_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beto/ackbot_ws/install/ps4_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ps4_controller build --build-base /home/beto/ackbot_ws/build/ps4_controller/build install --record /home/beto/ackbot_ws/build/ps4_controller/install.log --single-version-externally-managed install_data
+[0.987s] running egg_info
+[0.987s] creating ../../build/ps4_controller/ps4_controller.egg-info
+[0.987s] writing ../../build/ps4_controller/ps4_controller.egg-info/PKG-INFO
+[0.988s] writing dependency_links to ../../build/ps4_controller/ps4_controller.egg-info/dependency_links.txt
+[0.988s] writing entry points to ../../build/ps4_controller/ps4_controller.egg-info/entry_points.txt
+[0.988s] writing requirements to ../../build/ps4_controller/ps4_controller.egg-info/requires.txt
+[0.989s] writing top-level names to ../../build/ps4_controller/ps4_controller.egg-info/top_level.txt
+[0.989s] writing manifest file '../../build/ps4_controller/ps4_controller.egg-info/SOURCES.txt'
+[0.990s] reading manifest file '../../build/ps4_controller/ps4_controller.egg-info/SOURCES.txt'
+[0.990s] writing manifest file '../../build/ps4_controller/ps4_controller.egg-info/SOURCES.txt'
+[0.990s] running build
+[0.990s] running build_py
+[0.990s] creating /home/beto/ackbot_ws/build/ps4_controller/build
+[0.990s] creating /home/beto/ackbot_ws/build/ps4_controller/build/lib
+[0.990s] creating /home/beto/ackbot_ws/build/ps4_controller/build/lib/ps4_controller
+[0.990s] copying ps4_controller/__init__.py -> /home/beto/ackbot_ws/build/ps4_controller/build/lib/ps4_controller
+[0.990s] copying ps4_controller/ps4_controller_node.py -> /home/beto/ackbot_ws/build/ps4_controller/build/lib/ps4_controller
+[0.998s] running install
+[0.998s] running install_lib
+[0.999s] creating /home/beto/ackbot_ws/install/ps4_controller/lib/python3.10/site-packages/ps4_controller
+[0.999s] copying /home/beto/ackbot_ws/build/ps4_controller/build/lib/ps4_controller/__init__.py -> /home/beto/ackbot_ws/install/ps4_controller/lib/python3.10/site-packages/ps4_controller
+[0.999s] copying /home/beto/ackbot_ws/build/ps4_controller/build/lib/ps4_controller/ps4_controller_node.py -> /home/beto/ackbot_ws/install/ps4_controller/lib/python3.10/site-packages/ps4_controller
+[0.999s] byte-compiling /home/beto/ackbot_ws/install/ps4_controller/lib/python3.10/site-packages/ps4_controller/__init__.py to __init__.cpython-310.pyc
+[0.999s] byte-compiling /home/beto/ackbot_ws/install/ps4_controller/lib/python3.10/site-packages/ps4_controller/ps4_controller_node.py to ps4_controller_node.cpython-310.pyc
+[1.000s] running install_data
+[1.000s] creating /home/beto/ackbot_ws/install/ps4_controller/share/ament_index
+[1.000s] creating /home/beto/ackbot_ws/install/ps4_controller/share/ament_index/resource_index
+[1.000s] creating /home/beto/ackbot_ws/install/ps4_controller/share/ament_index/resource_index/packages
+[1.000s] copying resource/ps4_controller -> /home/beto/ackbot_ws/install/ps4_controller/share/ament_index/resource_index/packages
+[1.000s] copying package.xml -> /home/beto/ackbot_ws/install/ps4_controller/share/ps4_controller
+[1.000s] running install_egg_info
+[1.000s] Copying ../../build/ps4_controller/ps4_controller.egg-info to /home/beto/ackbot_ws/install/ps4_controller/lib/python3.10/site-packages/ps4_controller-0.0.0-py3.10.egg-info
+[1.000s] running install_scripts
+[1.016s] Installing ps4_joy script to /home/beto/ackbot_ws/install/ps4_controller/lib/ps4_controller
+[1.016s] writing list of installed files to '/home/beto/ackbot_ws/build/ps4_controller/install.log'
+[1.051s] Invoked command in '/home/beto/ackbot_ws/src/ps4_controller' returned '0': PYTHONPATH=/home/beto/ackbot_ws/build/ps4_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beto/ackbot_ws/install/ps4_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ps4_controller build --build-base /home/beto/ackbot_ws/build/ps4_controller/build install --record /home/beto/ackbot_ws/build/ps4_controller/install.log --single-version-externally-managed install_data

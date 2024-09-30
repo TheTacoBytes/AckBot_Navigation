@@ -1,0 +1,35 @@
+[0.846s] Invoking command in '/home/beto/ackbot_ws/src/ackbot_slam_launch': PYTHONPATH=/home/beto/ackbot_ws/build/ackbot_slam_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ackbot_slam_launch build --build-base /home/beto/ackbot_ws/build/ackbot_slam_launch/build install --record /home/beto/ackbot_ws/build/ackbot_slam_launch/install.log --single-version-externally-managed install_data
+[0.988s] running egg_info
+[0.989s] creating ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info
+[0.989s] writing ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/PKG-INFO
+[0.990s] writing dependency_links to ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/dependency_links.txt
+[0.990s] writing entry points to ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/entry_points.txt
+[0.990s] writing requirements to ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/requires.txt
+[0.990s] writing top-level names to ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/top_level.txt
+[0.992s] writing manifest file '../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/SOURCES.txt'
+[0.993s] reading manifest file '../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/SOURCES.txt'
+[0.993s] writing manifest file '../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info/SOURCES.txt'
+[0.993s] running build
+[0.993s] running build_py
+[0.993s] creating /home/beto/ackbot_ws/build/ackbot_slam_launch/build
+[0.993s] creating /home/beto/ackbot_ws/build/ackbot_slam_launch/build/lib
+[0.993s] creating /home/beto/ackbot_ws/build/ackbot_slam_launch/build/lib/ackbot_slam_launch
+[0.993s] copying ackbot_slam_launch/__init__.py -> /home/beto/ackbot_ws/build/ackbot_slam_launch/build/lib/ackbot_slam_launch
+[0.993s] running install
+[0.993s] running install_lib
+[0.993s] creating /home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages/ackbot_slam_launch
+[0.994s] copying /home/beto/ackbot_ws/build/ackbot_slam_launch/build/lib/ackbot_slam_launch/__init__.py -> /home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages/ackbot_slam_launch
+[0.994s] byte-compiling /home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages/ackbot_slam_launch/__init__.py to __init__.cpython-310.pyc
+[0.994s] running install_data
+[0.994s] creating /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ament_index
+[0.994s] creating /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ament_index/resource_index
+[0.994s] creating /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ament_index/resource_index/packages
+[0.994s] copying resource/ackbot_slam_launch -> /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ament_index/resource_index/packages
+[0.994s] copying package.xml -> /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ackbot_slam_launch
+[0.994s] creating /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ackbot_slam_launch/launch
+[0.994s] copying launch/slam_launch.py -> /home/beto/ackbot_ws/install/ackbot_slam_launch/share/ackbot_slam_launch/launch
+[0.998s] running install_egg_info
+[1.002s] Copying ../../build/ackbot_slam_launch/ackbot_slam_launch.egg-info to /home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages/ackbot_slam_launch-0.0.0-py3.10.egg-info
+[1.002s] running install_scripts
+[1.017s] writing list of installed files to '/home/beto/ackbot_ws/build/ackbot_slam_launch/install.log'
+[1.039s] Invoked command in '/home/beto/ackbot_ws/src/ackbot_slam_launch' returned '0': PYTHONPATH=/home/beto/ackbot_ws/build/ackbot_slam_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beto/ackbot_ws/install/ackbot_slam_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ackbot_slam_launch build --build-base /home/beto/ackbot_ws/build/ackbot_slam_launch/build install --record /home/beto/ackbot_ws/build/ackbot_slam_launch/install.log --single-version-externally-managed install_data

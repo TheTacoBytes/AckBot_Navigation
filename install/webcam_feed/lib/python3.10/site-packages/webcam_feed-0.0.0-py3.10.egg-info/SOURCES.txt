@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/webcam_feed/webcam_feed.egg-info/PKG-INFO
+../../build/webcam_feed/webcam_feed.egg-info/SOURCES.txt
+../../build/webcam_feed/webcam_feed.egg-info/dependency_links.txt
+../../build/webcam_feed/webcam_feed.egg-info/entry_points.txt
+../../build/webcam_feed/webcam_feed.egg-info/requires.txt
+../../build/webcam_feed/webcam_feed.egg-info/top_level.txt
+../../build/webcam_feed/webcam_feed.egg-info/zip-safe
+resource/webcam_feed
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+webcam_feed/__init__.py
+webcam_feed/webcam_sub.py

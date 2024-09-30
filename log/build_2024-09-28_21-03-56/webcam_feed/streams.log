@@ -1,0 +1,24 @@
+[0.913s] Invoking command in '/home/beto/ackbot_ws/src/webcam_feed': PYTHONPATH=/home/beto/ackbot_ws/build/webcam_feed/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/webcam_feed build --build-base /home/beto/ackbot_ws/build/webcam_feed/build install --record /home/beto/ackbot_ws/build/webcam_feed/install.log --single-version-externally-managed install_data
+[1.056s] running egg_info
+[1.056s] writing ../../build/webcam_feed/webcam_feed.egg-info/PKG-INFO
+[1.065s] writing dependency_links to ../../build/webcam_feed/webcam_feed.egg-info/dependency_links.txt
+[1.065s] writing entry points to ../../build/webcam_feed/webcam_feed.egg-info/entry_points.txt
+[1.066s] writing requirements to ../../build/webcam_feed/webcam_feed.egg-info/requires.txt
+[1.066s] writing top-level names to ../../build/webcam_feed/webcam_feed.egg-info/top_level.txt
+[1.066s] reading manifest file '../../build/webcam_feed/webcam_feed.egg-info/SOURCES.txt'
+[1.067s] writing manifest file '../../build/webcam_feed/webcam_feed.egg-info/SOURCES.txt'
+[1.067s] running build
+[1.067s] running build_py
+[1.068s] copying webcam_feed/webcam_sub.py -> /home/beto/ackbot_ws/build/webcam_feed/build/lib/webcam_feed
+[1.068s] running install
+[1.068s] running install_lib
+[1.069s] copying /home/beto/ackbot_ws/build/webcam_feed/build/lib/webcam_feed/webcam_sub.py -> /home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages/webcam_feed
+[1.069s] byte-compiling /home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages/webcam_feed/webcam_sub.py to webcam_sub.cpython-310.pyc
+[1.070s] running install_data
+[1.070s] running install_egg_info
+[1.070s] removing '/home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages/webcam_feed-0.0.0-py3.10.egg-info' (and everything under it)
+[1.071s] Copying ../../build/webcam_feed/webcam_feed.egg-info to /home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages/webcam_feed-0.0.0-py3.10.egg-info
+[1.071s] running install_scripts
+[1.083s] Installing img_subscriber script to /home/beto/ackbot_ws/install/webcam_feed/lib/webcam_feed
+[1.084s] writing list of installed files to '/home/beto/ackbot_ws/build/webcam_feed/install.log'
+[1.111s] Invoked command in '/home/beto/ackbot_ws/src/webcam_feed' returned '0': PYTHONPATH=/home/beto/ackbot_ws/build/webcam_feed/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beto/ackbot_ws/install/webcam_feed/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/webcam_feed build --build-base /home/beto/ackbot_ws/build/webcam_feed/build install --record /home/beto/ackbot_ws/build/webcam_feed/install.log --single-version-externally-managed install_data

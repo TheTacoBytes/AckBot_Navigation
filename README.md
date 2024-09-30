@@ -1,5 +1,9 @@
 # Ackbot Project
 
+
+https://github.com/user-attachments/assets/c0d8558d-242a-4060-ba12-9d2655ce0742
+
+
 ## Overview
 The AckBot project provides the necessary code and configurations to control and navigate a robot using a Raspberry Pi 4 (AckBot) and a laptop running Ubuntu 22 with ROS 2 Humble. AckBot itself handles the basic sensor and movement operations, such as publishing topics like `cmd_vel`, `odom`, and `scan`. However, all higher-level functions, such as mapping (SLAM), localization (AMCL), and navigation (Nav2), are handled on the laptop, which subscribes to these topics.
 

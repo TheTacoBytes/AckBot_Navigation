@@ -120,4 +120,10 @@ ros2 launch ackbot_nav2_bringup navigation_launch.py use_sim_time:=false map_sub
 ### Set Goal Pose
 In RVIZ click 2D Goal Pose and set the position and direction and watch as the AckBot moves.
 
+## Viewing the Webcam feed
+**Run the Image Subscriber on the Laptop**: On your laptop, run the image subscriber node to view the webcam feed:
+```bash
+ros2 run webcam_feed img_subscriber
+```
+You should see the video stream in an OpenCV window.
 

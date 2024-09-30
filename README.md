@@ -115,6 +115,5 @@ ros2 launch ackbot_nav2_bringup navigation_launch.py use_sim_time:=false map_sub
 
 ### Set Goal Pose
 In RVIZ click 2D Goal Pose and set the position and direction and watch as the AckBot moves.
-License  
-This project is licensed under the Apache License 2.0.
+
 
